@@ -315,6 +315,7 @@ section {
 }
 
 .footer:after {
+    content: "";
     background-color: #a0a0a0;
     width: 75%;
     position: absolute;
@@ -364,7 +365,7 @@ footer a {
     background-image: url('../img/twitter.svg');
 }
 
-.facebooks {
+.facebook {
     background-image: url('../img/facebook.svg');
 }
 
