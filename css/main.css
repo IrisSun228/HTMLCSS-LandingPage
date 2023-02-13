@@ -85,3 +85,9 @@ section {
 .header-nav {
     border-bottom: #a0a0a0;
 }
+
+.brand {
+    size: 170px 85px;
+    margin-left: -15px;
+    margin-right: 60px;
+}
